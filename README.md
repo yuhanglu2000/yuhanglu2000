@@ -1,16 +1,16 @@
-## Hi there 👋
+## Yuhang Lu
 
-<!--
-**yuhanglu2000/yuhanglu2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Myself
 
-Here are some ideas to get you started:
+A Ph.D. student at [HKU MMLab](https://mmlab.hk/), working on Physical AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research interests include embodied intelligence, video generation, and 3D world understanding, especially how machines can better perceive, model, and interact with the physical world.
+
+🤗 Open to research collaborations and interesting conversations on Physical AI and related topics.  
+Feel free to reach me via [email](mailto:lu.yuhang@connect.hku.hk) and more: [homepage](https://yuhanglu2000.github.io).
+
+### Contact
+
+- Homepage: [yuhanglu2000.github.io](https://yuhanglu2000.github.io)
+- Google Scholar: [Scholar Profile](https://scholar.google.com/citations?user=HiwDOksAAAAJ)
+- Email: [lu.yuhang@connect.hku.hk](mailto:lu.yuhang@connect.hku.hk)
